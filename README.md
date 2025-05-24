@@ -3,14 +3,14 @@ This project is a memory game developed using JavaFX, featuring a built-in timer
 
 ---
 
-## *Gameplay Demo*
+## **Game Screen**
 
 
 <img src="https://github.com/user-attachments/assets/936f4104-1922-4143-b3b3-86830ad967d2" alt="Game Demo" width="350"/>
 
 ---
 
-## *🛠 Project Structure*
+## **🛠 Project Structure**
 
 ├── src/
 
@@ -26,7 +26,7 @@ This project is a memory game developed using JavaFX, featuring a built-in timer
 
 ---
 
-## *📸 Screenshots*
+## **📸 Screenshots**
 
 <p align="left">
 <img src="https://github.com/user-attachments/assets/2be9b7e5-32a2-438f-98ff-753679ce8f2b" alt="Game Demo" width="350"/>
@@ -70,7 +70,7 @@ This project is a memory game developed using JavaFX, featuring a built-in timer
 
 ---
 
-## 🚀  *Features*
+## 🚀  **Features**
 *User Registration & Login*
 
 Players can register or log in using a username and password.
@@ -113,7 +113,7 @@ When all cards are matched, the timer stops and the game ends automatically.
 JavaFX
 
 ---
-## *Special Thanks*
+## **Special Thanks**
 
 Prof. Dr. Ahmet Gürhanlı, for insightful lectures and guidance.
 
